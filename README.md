@@ -1,4 +1,3 @@
-# automated_mm_paper
 # Automated Market Maker Inventory Management with Deep Reinforcement Learning
 
 Here you can find all the data from the paper "Automated Market Maker Inventory Management with Deep Reinforcement Learning".

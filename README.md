@@ -12,6 +12,7 @@ to control inventory depending on designer preferences. To achieve this, we intr
 
 Corresponding author: 
 - Óscar Fernández Vicente. (oscar.f.vicente@alumnos.uc3m.es)
+
 Contributing authors: 
 - Fernando Fernández Rebollo (ffernand@inf.uc3m.es)
 - Javier García Polo (franciscojavier.garcia.polo@usc.es)
